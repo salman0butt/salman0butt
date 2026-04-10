@@ -112,14 +112,6 @@ const salman = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman0butt&bg_color=0d0d1f&color=5DCAA5&line=1D9E75&point=EF9F27&area=true&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 ## 🏆 Achievements
