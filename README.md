@@ -108,17 +108,39 @@ const salman = {
 
 ## 📊 GitHub Stats
 
+> ⚡ Stats update every 24 hours — private repo contributions included
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salman0butt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&icon_color=5DCAA5&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-salman0butt.vercel.app/api?username=salman0butt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&icon_color=5DCAA5&text_color=ffffff" onerror="this.src='https://github-readme-stats.vercel.app/api?username=salman0butt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&icon_color=5DCAA5&text_color=ffffff'"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman0butt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-salman0butt.vercel.app/api/top-langs/?username=salman0butt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&text_color=ffffff" onerror="this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=salman0butt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&text_color=ffffff'"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salman0butt&theme=tokyonight&hide_border=true&background=0d0d1f&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=5DCAA5" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=salman0butt&theme=tokyonight&hide_border=true&background=0d0d1f&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=5DCAA5)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=salman0butt&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman0butt&bg_color=0d0d1f&color=5DCAA5&line=1D9E75&point=EF9F27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
