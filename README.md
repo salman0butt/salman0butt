@@ -59,21 +59,21 @@ const salman = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**🤖 Generative AI & LLM Engineering**
+**🤖 Generative AI & LLM**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 
-> **LangChain · LangGraph · LangSmith · RAG Pipelines · Vector DBs (Pinecone, Chroma, FAISS) · Prompt Engineering · Agentic AI · Multi-Agent Orchestration · Embedding Models**
+> **LangChain · LangGraph · LangSmith · RAG Pipelines · Vector DBs · Prompt Engineering · Agentic AI · Multi-Agent Systems**
 
-**🏗️ Architecture, Messaging & IoT**
+**🏗️ Architecture & Messaging**
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-> **Microservices · Monolith · Event-Driven · CQRS · Serverless · MQTT (IoT) · Multi-Tenancy SaaS · System Design · Distributed Systems · Load Balancing · Redis Caching**
+> **Microservices · Event-Driven · CQRS · Serverless · MQTT · System Design · Distributed Systems**
 
 **🗄️ Databases**
 
@@ -91,73 +91,49 @@ const salman = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**🧪 Testing & Workflow**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
-
-> **PHPUnit · Laravel Dusk · TDD · GitLab · Bitbucket · Agile/Scrum · RBAC · Figma · Insomnia**
 
 ---
 
 ## 📊 GitHub Stats
 
-> ⚡ Stats update every 24 hours — private repo contributions included
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salman0butt.vercel.app/api?username=salman0butt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&icon_color=5DCAA5&text_color=ffffff" onerror="this.src='https://github-readme-stats.vercel.app/api?username=salman0butt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&icon_color=5DCAA5&text_color=ffffff'"/>
+![](https://img.shields.io/badge/Total_Contributions-982+-1D9E75?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Longest_Streak-15_Days-EF9F27?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Experience-7%2B_Years-185FA5?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Projects_Delivered-50%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats-salman0butt.vercel.app/api/top-langs/?username=salman0butt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&text_color=ffffff" onerror="this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=salman0butt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=1D9E75&text_color=ffffff'"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=salman0butt&theme=tokyonight&hide_border=true&background=0d0d1f&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=5DCAA5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=salman0butt&theme=tokyonight&hide_border=true&background=0d0d1f&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=5DCAA5&sideLabels=9FE1CB&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=salman0butt&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman0butt&bg_color=0d0d1f&color=5DCAA5&line=1D9E75&point=EF9F27&area=true&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Achievements
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman0butt&bg_color=0d0d1f&color=5DCAA5&line=1D9E75&point=EF9F27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://img.shields.io/badge/🏅_Employee_of_the_Year-2020-EF9F27?style=for-the-badge)
+![](https://img.shields.io/badge/⚡_API_Performance-30--40%25_Improved-1D9E75?style=for-the-badge)
+![](https://img.shields.io/badge/🌍_Countries_Worked-5-185FA5?style=for-the-badge)
+![](https://img.shields.io/badge/🚀_Production_Platforms-5%2B-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/📱_Mobile_Apps-iOS_%26_Android-EA4335?style=for-the-badge)
+![](https://img.shields.io/badge/🤖_GenAI_Systems-LangChain_%26_LangGraph-1D9E75?style=for-the-badge)
 
 </div>
-
----
-
-## 🏆 Key Achievements
-
-| | Achievement |
-|---|---|
-| ⚡ | Improved API response time **30–40%** via N+1 query optimization at Permission.io |
-| 🤖 | Built full **conversational AI agent** using LangChain, LangGraph & Google ADK |
-| 🌐 | Engineered **5+ production platforms** at Permission.io (Web3 + AI) |
-| 📡 | Architected **real-time IoT pipelines** with RabbitMQ, MQTT & InfluxDB at OffGrid Europe |
-| 📱 | Shipped **cross-platform mobile apps** with React Native (iOS & Android) |
-| 🧩 | Built **MindManager** enterprise mind mapping app for Corel Corporation |
-| 🌍 | Delivered **50+ projects** across USA, Germany, Norway, Czech Republic & Bahrain |
-| 🏅 | **Employee of the Year 2020** |
 
 ---
 
@@ -167,12 +143,27 @@ const salman = {
 |---|---|---|
 | **Permission AI Platform** | React · NestJS · Web3 · LangChain · RabbitMQ | AI-powered Web3 advertising & agentic platform |
 | **Permission Browser Extension** | Chrome Extension · Web3 · Firebase | AI widgets with wallet, KYC & transaction flows |
-| **OffGrid IoT Dashboard** | Vue.js · Node.js · InfluxDB · MQTT · RabbitMQ | Real-time monitoring for solar energy systems |
+| **OffGrid IoT Dashboard** | Vue.js · Node.js · InfluxDB · MQTT · RabbitMQ | Real-time monitoring for off-grid solar systems |
 | **MindManager Enterprise** | Backbone.js · Joint.js · Node.js | Enterprise mind mapping app (Corel Corporation) |
-| **Switcher ERP** | Laravel · Vue.js · Multi-Tenancy SaaS | POS & ERP for Middle East retail businesses |
+| **Switcher ERP** | Laravel · Vue.js · Multi-Tenancy SaaS | POS & ERP system for Middle East retail |
 | **AI Chat Agent** | React · Node.js · LangChain · Python · Google ADK | ChatGPT-style conversational AI platform |
 | **CodeSync** | React · Node.js · Socket.IO · MongoDB | Real-time collaborative code editor |
 | **NorgsHandle** | Laravel · MySQL · Maps API | Real estate & jobs classified portal (Norway) |
+
+---
+
+## 🏆 Key Wins
+
+| | Achievement |
+|---|---|
+| ⚡ | Improved API response time **30–40%** via N+1 query optimization at Permission.io |
+| 🤖 | Built full **conversational AI agent** — LangChain · LangGraph · Google ADK |
+| 🌐 | Engineered **5+ production platforms** at Permission.io (Web3 + AI) |
+| 📡 | Architected **real-time IoT pipelines** — RabbitMQ · MQTT · InfluxDB |
+| 📱 | Shipped **cross-platform mobile apps** with React Native (iOS & Android) |
+| 🧩 | Built **MindManager** enterprise app for Corel Corporation |
+| 🌍 | Delivered **50+ projects** across USA · Germany · Norway · Czech Republic · Bahrain |
+| 🏅 | **Employee of the Year 2020** |
 
 ---
 
@@ -182,7 +173,7 @@ const salman = {
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
@@ -197,7 +188,5 @@ const salman = {
 ---
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=I+build+products+that+scale+%F0%9F%9A%80;Systems+that+hold+%F0%9F%94%A7;And+AI+that+actually+works+%F0%9F%A4%96" alt="Footer" />
-
 </div>
